@@ -1,0 +1,39 @@
+
+body{
+  background: #d4e2d4;
+}
+
+h1{
+  color: #11698e;
+}
+
+img{
+  height: 20rem;
+  width: 20rem;
+}
+
+p{
+  color: #11698e;
+  font-size: 2rem;
+  width: 50%;
+  margin: auto;
+}
+
+.homepage{
+  background-color: #d9ecf2;
+  text-align: center;
+  padding-top: 5rem;
+  padding-bottom: 20rem;
+}
+.link{
+  color:#a2d5f2;
+  margin-right: 5rem;
+}
+
+.navbar{
+  background-color: #3282b8;
+}
+
+.title{
+  font-size: 6rem;
+}
